@@ -14,7 +14,6 @@ Any business is obliged to understand clients — their needs, their opinions, t
   - [Data Preprocessing](#data-preprocessing)
   - [Model Selection](#model-selection-and-evaluations)
   - [Deal with imbalanced data](#deal-with-imbalanced-data)
-  - [Putting it Together](#putting-it-together)
   - [Flask and Api](#flask-and-api)
   - [Api Testing](#api-testing)
 
