@@ -84,7 +84,7 @@ Any business is obliged to understand clients — their needs, their opinions, t
         
 > ### GaussianNB and evaluation
 >>
-     Observation Support Vector Machine Classifier:
+     Observation Support GaussianNB:
 ![foxdemo](https://github.com/SarkarPriyanshu/Sentiment_Predict/blob/master/Graphs/img10.png?raw=true)
      
         * G-Mean test: 0.20328966895744396
