@@ -124,7 +124,6 @@ Any business is obliged to understand clients — their needs, their opinions, t
     
 ## Flask and Api
 >>
-  * For backend we used [Flask](https://flask.palletsprojects.com/en/2.2.x/)
   * [Server code](https://github.com/SarkarPriyanshu/Sentiment_Predict/tree/master/Server) using [Streamlit](https://streamlit.io/)
     
 ## Api Testing
